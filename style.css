@@ -1,0 +1,71 @@
+h1{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.flag{
+    background-color: aliceblue;
+    width: 600px;
+    height: 400px;
+}
+.strip1{
+    background-color: orangered;
+    width: 100%;
+    height: 133.333px;
+}
+.strip2{
+    background-color: white;
+    width: 100%;
+    height: 133.333px;
+}
+.strip3{
+    background-color: green;
+    width: 100%;
+    height: 133.333px;
+}
+.ashok{
+    position: relative;
+    width: 128px;
+    height: 128px;
+    border: 4px solid navy;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+.ashok div{
+    width: 125px;
+    border: 2px solid navy;
+    position: absolute;
+    top: 62px; 
+}
+.spoke2{
+    transform: rotate(15deg);
+}
+.spoke3{
+    transform: rotate(30deg);
+}
+.spoke4{
+    transform: rotate(45deg);
+}
+.spoke5{
+    transform: rotate(65deg);
+}
+.spoke6{
+    transform: rotate(80deg);
+}
+.spoke7{
+    transform: rotate(95deg);
+}
+.spoke8{
+    transform: rotate(110deg);
+}
+.spoke9{
+    transform: rotate(125deg);
+}
+.spoke10{
+    transform: rotate(140deg);
+}
+.spoke11{
+    transform: rotate(155deg);
+}
+.spoke12{
+    transform: rotate(170deg);
+}
